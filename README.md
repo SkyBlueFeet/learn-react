@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# 入门教程: 认识 React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+该项目由 [Create React App](https://github.com/facebook/create-react-app)构建，用于 React 基础学习.参考地址:<a href="https://react.docschina.org/tutorial/tutorial.html">入门教程: 认识 React</a>
 
 ## Available Scripts
 
